@@ -66,7 +66,7 @@ Probeer het zelf! Maximaal 5 minuten werk, dat je een hele hoop tijd en geld kan
 			},
 		},
 		
-		description='Deze website maakt gebruik van cookies om de website te verbeteren. Door verder te gaan binnen onze site, accepteer je automatisch ons cookiebeleid.'
+		description: 'Deze website maakt gebruik van cookies om de website te verbeteren. Door verder te gaan binnen onze site, accepteer je automatisch ons cookiebeleid.'
 		
 		readButton: {
 			title: 'Bekijk privacy policy',
@@ -88,3 +88,7 @@ import { createFixAVG } from 'fix-avg';
 
 createFixAVG(...);
 ```
+
+## License
+
+Gelicenseerd onder MIT, bekijk het LICENSE bestand voor een complete uitleg.
